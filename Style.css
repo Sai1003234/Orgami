@@ -1,0 +1,74 @@
+h1{
+justify-content: center;
+display: flex;
+
+}
+
+.Allvids{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+text-align: center;
+color: rgb(5, 5, 5);
+
+border: solid;
+padding: 20px;
+
+
+}
+.Oragami{
+    display: flex;
+    justify-content: space-evenly;
+    border: solid;
+    padding: 80px;
+    flex-wrap: wrap;
+    width: 200px;
+    flex-direction: row;
+    text-align: center;
+}
+.Header .Menu #hamburger{
+    display: block;
+    background-color: #87ceeb;
+    font-size: 20px;
+}
+
+.pics{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: solid;
+    background-color: #87ceeb;
+    padding: 180px;
+}
+
+
+.org{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: solid;
+    width: 80px;
+    padding: 80px;
+    background-color: #ffffff;
+    text-align: center;
+
+}
+.Header .Menu{
+display: flex;
+justify-content: space-evenly;
+flex-direction: row;
+text-size-adjust: 10px;
+background-color: #87ceeb;
+padding: 20px;
+
+
+}
+body{
+margin:0px;
+
+
+
+}
+
